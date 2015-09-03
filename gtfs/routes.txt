@@ -1,0 +1,102 @@
+﻿route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+vilnius_bus_1,"1","Stotis–Oro uostas",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/1,0073AC,FFFFFF
+vilnius_expressbus_1G,"1G","Stotis–Kalvarijų g.–Santariškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/expressbus/1G,008000,FFFFFF
+vilnius_bus_2,"2","Stotis–Liepkalnio–Vikingų g.–Oro uostas",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/2,0073AC,FFFFFF
+vilnius_expressbus_2G,"2G","Santariškės–Laisvės pr.–Stotis",,3,http://www.stops.lt/vilnius/index.html#vilnius/expressbus/2G,008000,FFFFFF
+vilnius_bus_3,"3","Stotis–Eišiškių pl.–Dilgynė–Salininkai–Vaidotai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/3,0073AC,FFFFFF
+vilnius_expressbus_3G,"3G","Fabijoniškės–Centras–Oro uostas",,3,http://www.stops.lt/vilnius/index.html#vilnius/expressbus/3G,008000,FFFFFF
+vilnius_bus_4,"4","Stotis–Rodūnios kelias–Kirtimai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/4,0073AC,FFFFFF
+vilnius_expressbus_4G,"4G","Pilaitė–Konstitucijos pr.–Saulėtekis",,3,http://www.stops.lt/vilnius/index.html#vilnius/expressbus/4G,008000,FFFFFF
+vilnius_bus_5,"5","Pašilaičiai–Tuskulėnų g.–Šiaurės miestelis",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/5,0073AC,FFFFFF
+vilnius_expressbus_5G,"5G","Pašilaičiai–Ozo g.–Saulėtekis",,3,http://www.stops.lt/vilnius/index.html#vilnius/expressbus/5G,008000,FFFFFF
+vilnius_expressbus_6G,"6G","Parko–Olandų g.–Žaliasis tiltas",,3,http://www.stops.lt/vilnius/index.html#vilnius/expressbus/6G,008000,FFFFFF
+vilnius_bus_7,"7","Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/7,0073AC,FFFFFF
+vilnius_bus_8,"8","Žemieji Paneriai–Aukštieji Paneriai–Vaidotai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/8,0073AC,FFFFFF
+vilnius_bus_9,"9","Zuikių–Agrastų g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/9,0073AC,FFFFFF
+vilnius_bus_10,"10","Fabijoniškės–Baltupiai–Markučiai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/10,0073AC,FFFFFF
+vilnius_bus_11,"11","Žvėrynas–Senamiestis–Užupis",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/11,0073AC,FFFFFF
+vilnius_bus_12,"12","Stotis–Rudamina–Skaidiškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/12,0073AC,FFFFFF
+vilnius_bus_13,"13","Žemasis Pavilnys–Markučiai–Stotis–Vilkpėdė",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/13,0073AC,FFFFFF
+vilnius_bus_14,"14","Grigaičiai–Parko–Arimų g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/14,0073AC,FFFFFF
+vilnius_bus_15,"15","Žolyno g.–Antakalnis–Turniškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/15,0073AC,FFFFFF
+vilnius_bus_16,"16","Stotis–Nemėžis–Skaidiškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/16,0073AC,FFFFFF
+vilnius_bus_17,"17","Antakalnis–Nemenčinės pl.–Antaviliai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/17,0073AC,FFFFFF
+vilnius_bus_18,"18","Antakalnis–Dvarčionys–Parko g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/18,0073AC,FFFFFF
+vilnius_bus_19,"19","Stotis–Lydos pl.–Salininkai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/19,0073AC,FFFFFF
+vilnius_bus_20,"20","Žemieji Paneriai–Mūrinė Vokė–Lazdynai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/20,0073AC,FFFFFF
+vilnius_bus_21,"21","Lazdynėliai–Lazdynai–Centras",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/21,0073AC,FFFFFF
+vilnius_bus_22,"22","Lazdynai–Oslo g.–Centras",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/22,0073AC,FFFFFF
+vilnius_bus_23,"23","Stotis–Švitrigailos g.–Lazdynai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/23,0073AC,FFFFFF
+vilnius_bus_24,"24","Fabijoniškės–Ukmergės g.–Žemieji Paneriai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/24,0073AC,FFFFFF
+vilnius_bus_25,"25","Žemieji Paneriai–V. A. Graičiūno g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/25,0073AC,FFFFFF
+vilnius_bus_26,"26","Ozo–Didlaukio–Baltupio g.–Bajorai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/26,0073AC,FFFFFF
+vilnius_bus_27,"27","Kalvarijų–Tuskulėnų–Olandų–Arimų g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/27,0073AC,FFFFFF
+vilnius_bus_28,"28","Žemieji Paneriai–Grigiškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/28,0073AC,FFFFFF
+vilnius_bus_29,"29","Savanorių pr.–Lazdynai–Grigiškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/29,0073AC,FFFFFF
+vilnius_bus_31,"31","Stotis–Pavilnys–Naujoji Vilnia",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/31,0073AC,FFFFFF
+vilnius_bus_32,"32","Žvėrynas–Zujūnai–Gineitiškės–Pašilaičiai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/32,0073AC,FFFFFF
+vilnius_bus_33,"33","Šiaurės miestelis–Rinktinės–Sukilėlių g.–Guriai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/33,0073AC,FFFFFF
+vilnius_bus_34,"34","Stotis–Olandų g.–Baltupiai–Jeruzalės g.–Visoriai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/34,0073AC,FFFFFF
+vilnius_bus_35,"35","Žalgirio–Kalvarijų g.–Naujieji Verkiai–Ožkiniai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/35,0073AC,FFFFFF
+vilnius_bus_36,"36","Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/36,0073AC,FFFFFF
+vilnius_bus_37,"37","Kalvarijų–Tuskulėnų–Olandų g.–Rokantiškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/37,0073AC,FFFFFF
+vilnius_bus_38,"38","Antakalnis–Dvarčionys–Šilėnų g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/38,0073AC,FFFFFF
+vilnius_bus_39,"39","Antakalnis–Nemenčinės pl.–Balžio g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/39,0073AC,FFFFFF
+vilnius_bus_40,"40","Fabijoniškės–S.Stanevičiaus g.–Centras",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/40,0073AC,FFFFFF
+vilnius_bus_41,"41","Stotis–Eišiškių pl.–Užusienis",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/41,0073AC,FFFFFF
+vilnius_bus_42,"42","Stotis–Eišiškių pl.–Salininkai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/42,0073AC,FFFFFF
+vilnius_bus_43,"43","Justiniškės–Šeškinė–Žaliasis tiltas–Centras",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/43,0073AC,FFFFFF
+vilnius_bus_46,"46","Pašilaičiai–A.Goštauto g.–Centras",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/46,0073AC,FFFFFF
+vilnius_bus_48,"48","Šeškinė–Pašilaičiai–Santariškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/48,0073AC,FFFFFF
+vilnius_bus_49,"49","Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/49,0073AC,FFFFFF
+vilnius_bus_50,"50","Antakalnis–Didlaukio g.–Jeruzalė–Bajorai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/50,0073AC,FFFFFF
+vilnius_bus_51,"51","Žemieji Paneriai–Trakų Vokė–Daniliškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/51,0073AC,FFFFFF
+vilnius_bus_52,"52","Centras–Ukmergės g.–Tarandė",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/52,0073AC,FFFFFF
+vilnius_bus_53,"53","Fabijoniškės–Kalvarijų–Pylimo g.–Stotis",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/53,0073AC,FFFFFF
+vilnius_bus_54,"54","Pilaitė–Lazdynai–Stotis",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/54,0073AC,FFFFFF
+vilnius_bus_55,"55","Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/55,0073AC,FFFFFF
+vilnius_bus_56,"56","Fabijoniškės–Šeškinė–Konstitucijos pr.–Centras",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/56,0073AC,FFFFFF
+vilnius_bus_57,"57","Fabijoniškės–Ateities g.–Jeruzalė–Bajorai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/57,0073AC,FFFFFF
+vilnius_bus_58,"58","Stotis–Dzūkų g.–Minsko pl.–Kalnėnai–Guriai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/58,0073AC,FFFFFF
+vilnius_bus_59,"59","Grigiškės–Lazdynai–Laisvės pr.–Žvėrynas",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/59,0073AC,FFFFFF
+vilnius_bus_61,"61","Stotis–Nemėžis–Kuprioniškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/61,0073AC,FFFFFF
+vilnius_bus_63,"63","Žvėrynas–Pilaitės pr.–Karveliškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/63,0073AC,FFFFFF
+vilnius_bus_65,"65","Ožkiniai–Naujieji Verkiai–Balsių g.–Pagubė–Bireliai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/65,0073AC,FFFFFF
+vilnius_bus_66,"66","Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/66,0073AC,FFFFFF
+vilnius_bus_67,"67","Kalno–Parko g.–Mickūnai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/67,0073AC,FFFFFF
+vilnius_bus_68,"68","Lazdynai–Mūrinė Vokė–Lentvaris–Grigiškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/68,0073AC,FFFFFF
+vilnius_bus_69,"69","Ateities–Didlaukio–Žalgirio g.–Lazdynai–Šiltnamių g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/69,0073AC,FFFFFF
+vilnius_bus_73,"73","Justiniškės–Centras–Naugarduko g.–Vilkpėdė",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/73,0073AC,FFFFFF
+vilnius_bus_74,"74","Stotis–Subačiaus–Parko g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/74,0073AC,FFFFFF
+vilnius_bus_75,"75","Santariškės–Šeškinė–Pilaitė",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/75,0073AC,FFFFFF
+vilnius_bus_76,"76","Ateities st.–Sakališkės–Bireliai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/76,0073AC,FFFFFF
+vilnius_bus_78,"78","Stotis–Eišiškių pl.–Pagiriai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/78,0073AC,FFFFFF
+vilnius_bus_82,"82","Stotis–Salininkai–Miškiniai–Juodšiliai",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/82,0073AC,FFFFFF
+vilnius_bus_87,"87","Ozo–Didlaukio g.–Molėtų pl.–Riešė–Bendorėliai–Šeškinė",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/87,0073AC,FFFFFF
+vilnius_bus_88,"88","Oro uostas–Centras–Europos aikštė",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/88,0073AC,FFFFFF
+vilnius_bus_114,"114","Saulėtekis–Kairėnų g.–Vinciūniškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/114,0073AC,FFFFFF
+vilnius_bus_115,"115","Antakalnis–Rokantiškės–Parko g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/115,0073AC,FFFFFF
+vilnius_bus_116,"116","Žvėrynas–Gudelių šilas–Lazdynai–Ungurių g.",,3,http://www.stops.lt/vilnius/index.html#vilnius/bus/116,0073AC,FFFFFF
+vilnius_nightbus_101N,"101N","Saulėtekis–Žygimantų g.–Savanorių–Laisvės pr.–Fabijoniškės",,3,http://www.stops.lt/vilnius/index.html#vilnius/nightbus/101N,0073AC,FFFFFF
+vilnius_nightbus_102N,"102N","Pilaitė–Žvėrynas–Žygimantų–Maironio g.–Stotis",,3,http://www.stops.lt/vilnius/index.html#vilnius/nightbus/102N,0073AC,FFFFFF
+vilnius_nightbus_103N,"103N","Santariškės–Didlaukio–Kalvarijų–Pylimo g.–Stotis–Gerosios Vilties st.",,3,http://www.stops.lt/vilnius/index.html#vilnius/nightbus/103N,0073AC,FFFFFF
+vilnius_nightbus_104N,"104N","Ateities–Žirmūnų–Pylimo g.–Naujininkai",,3,http://www.stops.lt/vilnius/index.html#vilnius/nightbus/104N,0073AC,FFFFFF
+vilnius_nightbus_105N,"105N","Pašilaičiai–Šeškinė–Konstitucijos pr.–Žygimantų g.–Polocko st.",,3,http://www.stops.lt/vilnius/index.html#vilnius/nightbus/105N,0073AC,FFFFFF
+vilnius_trol_1,"1","Karoliniškės–Žvėrynas–Stotis",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/1,DC3131,FFFFFF
+vilnius_trol_2,"2","Saulėtekis–Žygimantų g.–Stotis",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/2,DC3131,FFFFFF
+vilnius_trol_3,"3","Karoliniškės–Žvėrynas–Šeimyniškių g.",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/3,DC3131,FFFFFF
+vilnius_trol_4,"4","Antakalnis–Centras–Žemieji Paneriai",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/4,DC3131,FFFFFF
+vilnius_trol_6,"6","Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/6,DC3131,FFFFFF
+vilnius_trol_7,"7","Pašilaičiai–Justiniškės–Žvėrynas–Stotis",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/7,DC3131,FFFFFF
+vilnius_trol_9,"9","Karoliniškės–Šeimyniškių g.–Šiaurės miestelis",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/9,DC3131,FFFFFF
+vilnius_trol_10,"10","Saulėtekis–Kalvarijų g.–Naujininkai",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/10,DC3131,FFFFFF
+vilnius_trol_12,"12","Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/12,DC3131,FFFFFF
+vilnius_trol_13,"13","Pašilaičiai—Justiniškės—Žemieji Paneriai",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/13,DC3131,FFFFFF
+vilnius_trol_14,"14","Saulėtekis–Šeimyniškių–J. Basanavičiaus g.–Gerosios Vilties st.",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/14,DC3131,FFFFFF
+vilnius_trol_15,"15","Stotis–Žemieji Paneriai–Titnago g.",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/15,DC3131,FFFFFF
+vilnius_trol_16,"16","Pašilaičiai–Lazdynai–Stotis",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/16,DC3131,FFFFFF
+vilnius_trol_17,"17","Žirmūnai–Naujininkai",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/17,DC3131,FFFFFF
+vilnius_trol_18,"18","Pašilaičiai–Justiniškės–Žemieji Paneriai–Titnago g.",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/18,DC3131,FFFFFF
+vilnius_trol_19,"19","Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/19,DC3131,FFFFFF
+vilnius_trol_20,"20","Žirmūnai–Žygimantų–Pylimo g.–Stotis",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/20,DC3131,FFFFFF
+vilnius_trol_21,"21","Saulėtekis–Šilo tiltas–Žirmūnai",,800,http://www.stops.lt/vilnius/index.html#vilnius/trol/21,DC3131,FFFFFF

@@ -1,0 +1,2 @@
+﻿agency_id, agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+vilnius,"UAB Vilniaus viešasis transportas",http://www.vilniausviesasistransportas.lt,Europe/Vilnius,8 800 00122,lt
