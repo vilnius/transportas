@@ -11,6 +11,7 @@ Vilniaus stotelių, maršrutų ir tvarkaraščių duomenys yra viešai prienami 
 Šie duomenys yra atnaujinami kiekvieną kartą, kai keičiasi tvarkaraščiai http://stops.lt/vilnius puslapyje.
 
 http://m.stops.lt/vilnius/gps.txt - realiu laiku pateikiama informacija apie viešojo transporto buvimo vietą
+https://www.stops.lt/vilnius/gps_full.txt
 
 GTFS formatas yra atviras, jo aprašymas yra  https://developers.google.com/transit/gtfs/reference.
 
